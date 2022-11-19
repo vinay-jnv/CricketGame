@@ -1,1 +1,1 @@
-# using c++ programming for making cricket_game
+# use c++ programming for making cricket_game
